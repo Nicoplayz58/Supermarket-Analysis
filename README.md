@@ -57,8 +57,7 @@ Permite analizar las métricas clave del negocio, como:
 
 🌿 El diseño utiliza tonos naturales (verde, beige y madera clara) para reflejar una estética limpia y sostenible.
 
-🔗 [Ver Dashboard en Power BI]([https://app.powerbi.com/view?r=TU_LINK_AQUI](https://app.powerbi.com/view?r=eyJrIjoiNTU3MDJiYWQtNWVkMi00NmM4LTllOTEtZDAxOTZjZGUyZmU5IiwidCI6ImJhYjBiNjc5LWJkNWYtNGZlOC1iNTE2LWM2YjhiMzE3Yzc4MiIsImMiOjR9)
-
+🔗 [Ver Dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTU3MDJiYWQtNWVkMi00NmM4LTllOTEtZDAxOTZjZGUyZmU5IiwidCI6ImJhYjBiNjc5LWJkNWYtNGZlOC1iNTE2LWM2YjhiMzE3Yzc4MiIsImMiOjR9)
 ---
 
 ## 📓 Exploratory Data Analysis (Python)
