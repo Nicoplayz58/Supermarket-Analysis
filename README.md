@@ -21,6 +21,8 @@ Los datos provienen de cuatro archivos CSV que representan distintas áreas del 
 | **annex3.csv** | Precio mayorista de compra de cada producto                 | Date, Item Code, Wholesale Price (RMB/kg) |
 | **annex4.csv** | Tasa de pérdida o desperdicio estimada por producto         | Item Code, Item Name, Loss Rate (%) |
 
+📦 **Fuente de datos:** [Supermarket Sales Data – Kaggle](https://www.kaggle.com/datasets/yapwh1208/supermarket-sales-data/data)
+
 ---
 
 ## 💡 Preguntas guía
