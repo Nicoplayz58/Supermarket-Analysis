@@ -57,8 +57,6 @@ Permite analizar las métricas clave del negocio, como:
 - Comparativo de márgenes entre productos.
 - Impacto de descuentos y retornos en las ganancias.
 
-🌿 El diseño utiliza tonos naturales (verde, beige y madera clara) para reflejar una estética limpia y sostenible.
-
 🔗 [Ver Dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTU3MDJiYWQtNWVkMi00NmM4LTllOTEtZDAxOTZjZGUyZmU5IiwidCI6ImJhYjBiNjc5LWJkNWYtNGZlOC1iNTE2LWM2YjhiMzE3Yzc4MiIsImMiOjR9)
 ---
 
